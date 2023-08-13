@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 Soy estudiante avanzado en telecomunicaciones y red de datos<br>🔭Gane el NASA space app challenge 2018 <br> 🤝 Me gusta colaborar proyectos <br>🌱 Actualmente programando red de neuronas!! :D<br>💬 Pregúntame lo que quieras<br>⚡ A programar... tengo un PAAS personal
+⚡ backend dev<br>
+🔭 Soy estudiante avanzado en telecomunicaciones y red de datos<br>🔭Gane el NASA space app challenge 2018 <br> 🤝 Me gusta colaborar proyectos <br>🌱 Actualmente programando red de neuronas!! :D<br>💬 Pregúntame lo que quieras
+
 
 
 ## 🌐 Socials:
